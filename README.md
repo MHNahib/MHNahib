@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to tech
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am a Programmer
+- ⚡ Fun fact: I am not a robot !!!
 
