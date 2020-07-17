@@ -1,5 +1,7 @@
 ### Hello, I am M. H. Nahib 👋
 
+[![HitCount](http://hits.dwyl.com/MHNahib/MHNahib.svg)](http://hits.dwyl.com/MHNahib/MHNahib)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Competitive Programming (CP)
