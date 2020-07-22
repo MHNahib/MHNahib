@@ -24,3 +24,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am not a robot !!!
 
 <img src= "https://github-readme-stats.vercel.app/api?username=MHNahib&&show_icons=true&title_color=ffffff&icon_color=00ddff&text_color=daf7dc&bg_color=151515">
+
+<a href="https://twitter.com/HNahib">
+  <img align="left" alt="M. H. Nahib" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+<a href="https://www.linkedin.com/in/mhnahib/">
+  <img align="left" alt="Linkdein - M. H. Nahib" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/MHNahib/">
+  <img align="left" alt="Github- M. H. Nahib" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>
+<a href="https://t.me/mhnahib">
+  <img align="left" alt="Telegram - M. H. Nahib" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
+</a>
+<a href="mailto:mhnahib@gmail.com">
+  <img align="left" alt="Gmail - M. H. Nahib" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100017094937153">
+  <img align="left" alt="Facebook - M. H. Nahib" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
+</a>
