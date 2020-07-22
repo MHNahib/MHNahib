@@ -1,6 +1,13 @@
 ### Hello, I am M. H. Nahib 👋
-
+<!--
 [![HitCount](http://hits.dwyl.com/MHNahib/MHNahib.svg)](http://hits.dwyl.com/MHNahib/MHNahib)
+-->
+
+[![Github](https://img.shields.io/github/followers/MHNahib?style=social)](https://github.com/MHNahib)
+[![Github](https://img.shields.io/github/last-commit/MHNahib/MHNahib)](https://github.com/MHNahib/MHNahib)
+[![Github](https://img.shields.io/github/stars/MHNahib/MHNahib?style=social)](https://github.com/MHNahib/MHNahib)
+[![Github](https://img.shields.io/github/watchers/MHNahib/MHNahib?style=social)](https://github.com/MHNahib/MHNahib)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/HNahib)
 
 Here are some ideas to get you started:
 
