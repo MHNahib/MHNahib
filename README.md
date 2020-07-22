@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything related to tech
-<!--
+
 - 📫 How to reach me:  - [Facebook](https://www.facebook.com/profile.php?id=100017094937153),
                         - [Twitter](https://twitter.com/HNahib),
                         - [Linkedin](https://www.linkedin.com/in/mhnahib/)
--->
 
-- 📫 How to reach me:  
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I am not a robot !!!
+
 <img src= "https://github-readme-stats.vercel.app/api?username=MHNahib&&show_icons=true&title_color=ffffff&icon_color=00ddff&text_color=daf7dc&bg_color=151515">
 
 <a href="https://twitter.com/HNahib">
@@ -43,8 +44,5 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/profile.php?id=100017094937153">
   <img align="left" alt="Facebook - M. H. Nahib" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
 </a>
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am not a robot !!!
 
 
