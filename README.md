@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am not a robot !!!
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MHNahib&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 <img src= "https://github-readme-stats.vercel.app/api?username=MHNahib&&show_icons=true&title_color=ffffff&icon_color=00ddff&text_color=daf7dc&bg_color=151515">
 
 <a href="https://twitter.com/HNahib">
