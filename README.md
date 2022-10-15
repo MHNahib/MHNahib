@@ -5,6 +5,7 @@
 
 [![Github](https://img.shields.io/github/followers/MHNahib?style=social)](https://github.com/MHNahib)
 [![Github](https://img.shields.io/github/watchers/MHNahib/MHNahib?style=social)](https://github.com/MHNahib/MHNahib)
+[![Github](https://komarev.com/ghpvc/?username=MHNahib)](https://github.com/MHNahib/MHNahib)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/HNahib)
 
 ```javascript
@@ -30,8 +31,8 @@ const aboutMe = new About(
   ],
   ["c", "c++", "java", "python", "js"],
   {
-    js: ["react"],
-    css: ["bootstrap"]
+    js: ["react", "next.js"],
+    css: ["bootstrap", "tailwindcss"]
   },
   {
     js: ["node", "express"],
